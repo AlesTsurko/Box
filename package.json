@@ -1,0 +1,12 @@
+{
+  "name":         "Box",
+  "version":      "0.1",
+  "description":  "A primitive for fast operations on rectangles.",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["Box"],
+  "dependencies": {
+    "frameworks": ["Accelerate"]
+  }
+}
